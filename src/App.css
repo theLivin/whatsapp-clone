@@ -1,3 +1,7 @@
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
 .app {
   display: grid;
   place-items: center;
